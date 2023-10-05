@@ -1,4 +1,4 @@
-package sistemaParaValidaçãodeProcessoSeletivo;
+package desafioContador;
 
 public class ParametrosInvalidosException extends Exception {
 	
@@ -7,7 +7,6 @@ public class ParametrosInvalidosException extends Exception {
 
 	@Override
 	public String toString() {
-		// TODO Auto-generated method stub
 		return "O segundo parâmetro deve ser maior que o primeiro";
 	}
 }

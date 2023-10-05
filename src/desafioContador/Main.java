@@ -1,4 +1,4 @@
-package sistemaParaValidaçãodeProcessoSeletivo;
+package desafioContador;
 
 import java.util.Scanner;
 
