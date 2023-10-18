@@ -12,5 +12,5 @@
 * Repodutor Musicial: tocar, pausar, selecionarMusica
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
-
+---
 <img src="https://raw.githubusercontent.com/DiogoVilela12/santander-BootCamp-Java/main/bin/orienta%C3%A7%C3%A3oAObjetoseUMLDiagrama%C3%A7%C3%A3odeClassesdoiPhone/UML.png"/>
