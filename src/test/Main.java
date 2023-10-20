@@ -21,6 +21,7 @@ public class Main {
     for (String analise: analises) {
       System.out.println(analise);
     }
+    scanner.close();
   }
 }
 
